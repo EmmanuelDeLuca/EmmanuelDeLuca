@@ -1,9 +1,7 @@
 ### Oii! Eu sou Emmanuel De Luca👋
 
 - 🔭 Atualmente não estou trabalhando com programação 
-- 🌱 Estou estudando HTML, CSS e JavaScript
-- 💬 Futuro Front-end
-- 😄 Atualizando meu Github
+- 🌱 Estou estudando JavaScript
 
 <div align="center">
   <a href="https://github.com/EmmanuelDeLuca">
