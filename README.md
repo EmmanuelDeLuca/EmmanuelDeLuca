@@ -1,7 +1,7 @@
 ### Oii! Eu sou Emmanuel De Luca👋
 
 - 🔭 Atualmente não estou trabalhando com programação 
-- 🌱 Estou estudando JavaScript
+- 🌱 Estou estudando Java
 
 <div align="center">
   <a href="https://github.com/EmmanuelDeLuca">
