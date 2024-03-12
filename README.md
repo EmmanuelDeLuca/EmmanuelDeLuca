@@ -1,8 +1,5 @@
 ### Oii! Eu sou Emmanuel De Luca👋
 
-- 🔭 Atualmente não estou trabalhando com programação 
-- 🌱 Estou estudando Java
-
 <div align="center">
   <a href="https://github.com/EmmanuelDeLuca">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EmmanuelDeLuca&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
